@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NextGreaterElement2",
+            "request": "launch",
+            "mainClass": "NextGreaterElement2",
+            "projectName": "Stack_31c7e96"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuildStackArrayOperation",
+            "request": "launch",
+            "mainClass": "BuildStackArrayOperation",
+            "projectName": "Stack_31c7e96"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextGreaterElement1",
+            "request": "launch",
+            "mainClass": "NextGreaterElement1",
+            "projectName": "Stack_31c7e96"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUsingArray",
+            "request": "launch",
+            "mainClass": "StackUsingArray",
+            "projectName": "Stack_31c7e96"
+        }
+    ]
+}

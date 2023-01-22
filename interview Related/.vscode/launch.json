@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "interview Related_9bb3679a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckGeomatricProgression",
+            "request": "launch",
+            "mainClass": "CheckGeomatricProgression",
+            "projectName": "interview Related_9bb3679a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Helloworld",
+            "request": "launch",
+            "mainClass": "Helloworld",
+            "projectName": "interview Related_9bb3679a"
+        }
+    ]
+}

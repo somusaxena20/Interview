@@ -1,0 +1,441 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ReverseLinkedList2",
+            "request": "launch",
+            "mainClass": "Assignment.ReverseLinkedList2",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch NQueens",
+            "request": "launch",
+            "mainClass": "Assignment.NQueens",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckGeomatricProgression",
+            "request": "launch",
+            "mainClass": "CheckGeomatricProgression",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddToArray",
+            "request": "launch",
+            "mainClass": "AddToArray",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicRecursionProblem",
+            "request": "launch",
+            "mainClass": "Assignment.BasicRecursionProblem",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayProblem",
+            "request": "launch",
+            "mainClass": "BinarySearch.ArrayProblem",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountRotationArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.CountRotationArray",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInRotatedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.SearchInRotatedArray",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SplitArrayLargestSum",
+            "request": "launch",
+            "mainClass": "BinarySearch.SplitArrayLargestSum",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch binaryMain",
+            "request": "launch",
+            "mainClass": "BinarySearch.binaryMain",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchIn2DArray",
+            "request": "launch",
+            "mainClass": "BinarySearch2DArray.SearchIn2DArray",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateTargetArray",
+            "request": "launch",
+            "mainClass": "CreateTargetArray",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CyclicSort",
+            "request": "launch",
+            "mainClass": "CyclicSort",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiagonalMatrixSum",
+            "request": "launch",
+            "mainClass": "DiagonalMatrixSum",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindNUniqueNumber",
+            "request": "launch",
+            "mainClass": "FindNUniqueNumber",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlipImage",
+            "request": "launch",
+            "mainClass": "FlipImage",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch LuckyNumberMatrix",
+            "request": "launch",
+            "mainClass": "LuckyNumberMatrix",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatricDiagonalSum",
+            "request": "launch",
+            "mainClass": "MatricDiagonalSum",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeTwoSortedArray",
+            "request": "launch",
+            "mainClass": "MergeTwoSortedArray",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pangram",
+            "request": "launch",
+            "mainClass": "Pangram",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch S",
+            "request": "launch",
+            "mainClass": "S",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringIntro",
+            "request": "launch",
+            "mainClass": "StringIntro",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch TransposeMatrix",
+            "request": "launch",
+            "mainClass": "TransposeMatrix",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch AvgSalary",
+            "request": "launch",
+            "mainClass": "assigenments.AvgSalary",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanMakeArithmeticProgressionFromSequence",
+            "request": "launch",
+            "mainClass": "assigenments.CanMakeArithmeticProgressionFromSequence",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Closest3Sum",
+            "request": "launch",
+            "mainClass": "assigenments.Closest3Sum",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisapperedNumber",
+            "request": "launch",
+            "mainClass": "assigenments.DisapperedNumber",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAllNumbersDisappearedinanArray",
+            "request": "launch",
+            "mainClass": "assigenments.FindAllNumbersDisappearedinanArray",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch GroupAnagram",
+            "request": "launch",
+            "mainClass": "assigenments.GroupAnagram",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeightChecker",
+            "request": "launch",
+            "mainClass": "assigenments.HeightChecker",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HowManyNumSmallerThenCurrent",
+            "request": "launch",
+            "mainClass": "assigenments.HowManyNumSmallerThenCurrent",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Intersection",
+            "request": "launch",
+            "mainClass": "assigenments.Intersection",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Intersection2",
+            "request": "launch",
+            "mainClass": "assigenments.Intersection2",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSortedArray",
+            "request": "launch",
+            "mainClass": "assigenments.MergeSortedArray",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinSwapSort",
+            "request": "launch",
+            "mainClass": "assigenments.MinSwapSort",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingElement",
+            "request": "launch",
+            "mainClass": "assigenments.MissingElement",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch RankTransformArray",
+            "request": "launch",
+            "mainClass": "assigenments.RankTransformArray",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetMismatch",
+            "request": "launch",
+            "mainClass": "assigenments.SetMismatch",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortArrayByParity",
+            "request": "launch",
+            "mainClass": "assigenments.SortArrayByParity",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum3",
+            "request": "launch",
+            "mainClass": "assigenments.Sum3",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum4",
+            "request": "launch",
+            "mainClass": "assigenments.Sum4",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrangeCoin",
+            "request": "launch",
+            "mainClass": "assignment.ArrangeCoin",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckIfTwoStringEqual",
+            "request": "launch",
+            "mainClass": "assignment.CheckIfTwoStringEqual",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckVowels",
+            "request": "launch",
+            "mainClass": "assignment.CheckVowels",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountItemMatching",
+            "request": "launch",
+            "mainClass": "assignment.CountItemMatching",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcelSheetColumnTitle",
+            "request": "launch",
+            "mainClass": "assignment.ExcelSheetColumnTitle",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch GoalParser",
+            "request": "launch",
+            "mainClass": "assignment.GoalParser",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ip_address",
+            "request": "launch",
+            "mainClass": "assignment.Ip_address",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch KThMissingElement",
+            "request": "launch",
+            "mainClass": "assignment.KThMissingElement",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseWordInString",
+            "request": "launch",
+            "mainClass": "assignment.ReverseWordInString",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch RobotReturnOrigin",
+            "request": "launch",
+            "mainClass": "assignment.RobotReturnOrigin",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortSentense",
+            "request": "launch",
+            "mainClass": "assignment.SortSentense",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuffleString",
+            "request": "launch",
+            "mainClass": "assignment.SuffleString",
+            "projectName": "interview_f6a528bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ksmallest",
+            "request": "launch",
+            "mainClass": "ksmallest",
+            "projectName": "interview_f6a528bd"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FindKthBitNthBinaryString",
+            "request": "launch",
+            "mainClass": "Assignment.FindKthBitNthBinaryString",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthPermiutation",
+            "request": "launch",
+            "mainClass": "Assignment.KthPermiutation",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintSubsequenceSumK",
+            "request": "launch",
+            "mainClass": "PrintSubsequenceSumK",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permiutation",
+            "request": "launch",
+            "mainClass": "Assignment.Permiutation",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch RatInMaze",
+            "request": "launch",
+            "mainClass": "Assignment.RatInMaze",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromPartitioning",
+            "request": "launch",
+            "mainClass": "Assignment.PalindromPartitioning",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch Combination",
+            "request": "launch",
+            "mainClass": "Assignment.Combination",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch NQueens",
+            "request": "launch",
+            "mainClass": "Assignment.NQueens",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permiutation",
+            "request": "launch",
+            "mainClass": "Permiutation",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetSum2",
+            "request": "launch",
+            "mainClass": "Assignment.SubsetSum2",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetSum",
+            "request": "launch",
+            "mainClass": "Assignment.SubsetSum",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintSubsequence",
+            "request": "launch",
+            "mainClass": "PrintSubsequence",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationSum",
+            "request": "launch",
+            "mainClass": "Assignment.CombinationSum",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "Assignment.Reverse",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicRecursionProblem",
+            "request": "launch",
+            "mainClass": "BasicRecursionProblem",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationSum",
+            "request": "launch",
+            "mainClass": "CombinationSum",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationSum2",
+            "request": "launch",
+            "mainClass": "CombinationSum2",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetSum",
+            "request": "launch",
+            "mainClass": "SubsetSum",
+            "projectName": "recursion_74234890"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNnumbers",
+            "request": "launch",
+            "mainClass": "SumOfNnumbers",
+            "projectName": "recursion_74234890"
+        }
+    ]
+}
